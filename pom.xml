@@ -6,16 +6,16 @@
   <parent>
     <groupId>io.vertx</groupId>
     <artifactId>vertx-ext-parent</artifactId>
-    <version>17</version>
+    <version>19</version>
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>vertx-rabbitmq-client</artifactId>
-  <version>3.2.0</version>
+  <version>3.2.1</version>
 
   <properties>
-    <stack.version>3.2.0</stack.version>
+    <stack.version>3.2.1</stack.version>
     <rabbitmq.client.version>3.4.3</rabbitmq.client.version>
   </properties>
 
